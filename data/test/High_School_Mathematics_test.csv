@@ -1,0 +1,252 @@
+id,question,A,B,C,D
+0,"不等式$\cos x<0,\quad x\in\left[0,2\pi\right]$的解集为(  )","(0,\pi)","(\pi,2\pi)","\left(\frac{\pi}{2},\frac{3\pi}{2}\right)","\left(\frac{3\pi}2,2\pi\right)"
+1,直线$2x-\gamma+1=0$关于直线 $x=1$ 对称的直线方程是 ( ),\quad x+ 2y- 1= 0,2x+y-1=0,2x+y-5=0,x+ 2y- 5= 0
+2,"已知函数 $f(x)=2\sin x\cos x-\sin^2x+1$, 当$x=\theta$ 时函数 $y=f(x)$ 取得最小值，则$\frac{\sin2\theta+\cos2\theta}{\sin2\theta-\cos2\theta}=(\quad)$",-3,3,#NAME?,\frac13
+3,003视为小概率事件，工人随机将其中的8个交与质检员检验，则质检员认为设备需检修的概率为（    ）,\frac{44}{45},\frac4{5},\frac35,\frac{41}{45}
+4,"设$\alpha\in\left\{-1,1,\frac12,3\right\}$,则使函数$y=x^\alpha$ 的定义域为$R$且为奇函数的所有α的值为( )",-1，1，3,\frac12，1,-1，3,1，3
+5,将《红楼梦》《水浒传》《西游记》《三国演义》四本书随机地分发给甲、乙、丙三人，每人至少分得一本，则下列两个事件为互斥事件的是（    ）,事件“甲分得一本”与事件“丙分得两本”,事件“甲分得《红楼梦》”与事件“乙分得《西游记》”,事件“甲分得两本”与事件“乙分得两本”,事件“乙分得《三国演义》”与事件“丙分得《水浒传》”
+6,"三点A(2,-3)，B\left(4,3\right)，c{\left(5,\frac m2\right)}在同一条直线上，则m的值为（    ）",8,10,12,16
+7,"已知集合A=\left\{x\mathrm{d}x^{2}-2x\leq8\right\}B=\{-2,0\},下列命题为假命题的是（    ）","\exists x_{0}\in A,x_{0}\in B","\exists x_{0}\in B,x_{0}\in A","\forall x\in A,x\in B","\forall x\in B,x\in A"
+8,《九章算术》的盈不足章第19个问题中提到：“今有良马与驽马发长安，至齐．齐去长安三千里．良马初日行一百九十三里，日增一十三里．驽马初日行九十七里，之后每天比前一天多行13里．驽马第一天行97里，之后每天比前一天少行0.5里…”试问前4天（    ）,1235,1800,2600,3000
+9,"\text{已知各项均为实数的等比数列}\{a_n\}\text{的前 }n\text{项和为}S_n\text{,若 }S_{10}=10\text{,}S_{\text{з}0}=70\text{,则}S_{40}= （    ）",150,140,130,120
+10,"命题“$\forall x\in(1,2),\log_{2}x-a<0$”为真命题的一个充分不必要条件是（    ）",a\geq0,a\geq2,a\geq1,a\leq4
+11,已知复数z=\frac{2+\alpha\mathrm{i}}{1+2\mathrm{i}}（其中i是虚数单位）是实数，则实数a的值是（    ）,-1,2,3,4
+12,"设集合A=\{1,2\}，A\bigcup B=\{1,2,3\}则满足的集合B的个数是",1,3,4,8
+13,"E\left(X\right)=3\text{,则}D\left(5X+3\right)=2(20)",\sqrt{3},2,2+\sqrt{3},5+2\sqrt{3}
+14,"\text{已知}\alpha=\log_{0.2}3,\quad b=\log_\text{з}2,\quad c=2^{0.3}\text{,则}a\text{,}b\text{,c 的大小关系为}(\quad)",a>b>c,c>b>a,b>c>a,c>a>b
+15,"已知椭圆$C:\frac x{a^2}+\frac y{b^2}=1(a>b>0)$的焦距为2$c$,且$a$,$b$,$c$ 成等差数列，则椭圆$C$ 的离心率为( )",\frac35,\frac4{5},\frac{\sqrt{3}}3,\frac{\sqrt{3}}{5}
+16,"设函数 $f(x)=\alpha x-2\alpha+\mathrm{e}^x(1-x)$ 其中$a<1$,若存在唯一整数$x_0$,使得 $f(x_0)>0$ ,则a的取值范围是（    ）","(\frac{2}{3\mathrm{e}},1)","[\frac{2}{3\mathrm{e}},\frac{1}{2})","(-\frac{2}{3\mathrm{e}},1)","[-{\frac{2}{3e}},{\frac{1}{2}})"
+17,"方程$4x^{2}+(m-2)x+m-5=0$的一根在区间$\begin{pmatrix}-1,0\end{pmatrix}$内，另一根在区间$\left.\left(\begin{matrix}{0}&{2}\\\end{matrix}\right.\right)$内，则m的取值范围是（    ）","\left(\frac53,5\right)","\left(-\frac73,5\right)","\left(-\infty,\frac{5}{3}\right)\cap(5,+\infty)","\left(-\infty,\frac{5}{3}\right)"
+18,"已知点$F$ 是椭圆$C:\frac{x^2}{a^2}+\frac{y^2}{b^2}=1(a>b>0)$的右焦点，直线$y=\frac b2$与椭圆$C$交于A，$B$ 两点，且$\angle AFB=90^{\circ}$, 则该椭圆的离心率为( )",\frac{\sqrt{6}}2,\frac{\sqrt{6}}3,\frac{\sqrt{10}}5,\frac23
+19,"若不等式\log_{2}\frac{1+2^{x}+\left(1-\alpha\right)3^{x}}{3}\geq\left(x-1\right)\log_{2}3对任意x\in\left(-\infty,1\right)恒成立，则实数a的范围是（    ）","\left(-\infty,0\right]","\left(-\infty,1\right]","\left.\left[\begin{matrix}{0,+\infty}\\\end{matrix}\right.\right)","\left.\left[\begin{matrix}{1,+\infty}\\\end{matrix}\right.\right)"
+20,"已知$\overline{AB}=(3,0)$,那么$|\overline{AB}|$等于( )",2,3,4,5
+21,复数$\frac{1+3\mathrm{i}}{1-\mathrm{i}}$(i是虚数单位)的模等于（    ）,2\sqrt{5},2,\sqrt{5},\sqrt{2}
+22,"在方程nx^{2}+my^{2}=m\text{中,若}mn<0，则方程表示的曲线是（    ）",焦点在x轴上的椭圆,焦点在x轴上的双曲线,焦点在y轴上的双曲线,焦点在y轴上的椭圆
+23,"已知函数$f( $x$) $的图像关于$x= 2$对称，且对任意$x_1, \quad x_1\in ( 2, + \infty) $,都有$\begin{bmatrix}f(x_1)-f(x_2)\end{bmatrix}(x_1-x_2)<0$,设$a= f( - 1) , \quad b= f( \pi) , \quad c= f( $e$) $,则( )",\quad a<c<b,a<b<c,b<c<a,c<a<b
+24,"已知$P(1,\sqrt{3})$为双曲线$\frac{y^2}{a^2}-x^2=1(a>0)$上点.则该双曲线的离心率为( )",\frac{\sqrt{5}}2,\frac{\sqrt{5}}3,\frac{\sqrt{10}}3,\sqrt{5}
+25,先后两次掷一枚质地均匀的骰子，事件A=“两次掷出的点数之和是6”，事件B=“第一次掷出的点数是奇数”，事件C=“两次掷出的点数相同”，则（    ）,A与B互斥,B与C相互独立,P\left(A\right)=\frac{1}{6},A与C互斥
+26,若$z_{1}<z_{2}$，则k的值为（    ）,2,3,2或3,不存在
+27,"已知全集$U=\mathbf{R}$ , $A=\{x\mid0<x<2\},\quad B=\{x\mid x\geq1\}$ , 则 $A\cap\left(\mathfrak{O}_{U}B\right)=(\quad)$","\begin{pmatrix} - \infty, 2\end{pmatrix}","\begin{pmatrix}0,+\infty\end{pmatrix}","\begin{pmatrix}-\infty,1\end{pmatrix}","\begin{pmatrix}0,1\end{pmatrix}"
+28,"下列四个结论中正确的个数为( )(1)命题“若$x^2<1$,则$-1<x<1$”的逆否命题是“若$x>1$或$x<-1$,则$x^2>1”;\textcircled{2}$已知$p:\quad\forall x\in R,\quad sinx\leq1$, 若$a<b$,则$am^2<bm^2$,$r$为真命题；®命题“$\exists x\in R,x^2$一x>0”的否定“$\forall x\in R,x^2-x\leq0$”($\mathbb{A}^ix>2$”是“x^2>4的必要不充分条件",0个,1个,2个,3个
+29,"\text{已知两条直线}l_1:3x+y-5=0\text{ 和}l_2:x-ay=0\text{ 相互垂直,则}\alpha=(\quad)",\frac13,#NAME?,-3,3
+30,"$\alpha=\log_{0.3}0.4,\quad b=\log_34,\quad c=4^{\frac13}$的大小关系为( )",a<b<c,b<a<c,a<c<b,c<a<b
+31,已知圆$x^2+y^2+4x-2y+\alpha=0$ 上仅有一点到直线$3x-4y-5=0$ 的距离为1，则实数$a$ 的值为( ),11,-4,1,4
+32,"设复数-满足iz-3-i=z , 则z的虚部为( )",-2i,2i,-2,2
+33,下列四个命题：①任何数列都有通项公式；②给定了一个数列的通项公式就给定了这个数列；③给出了数列的有限项就可唯一确定这个数列的通项公式；④数列的通项公式a_{n}是项数n的函数其中正确的有(   ),1个,2个,3个,4个
+34,"已知实数x，$y$满足$\left(x+5\right)^2+\left(y-12\right)^2=196$, 那么$\sqrt{x^2+y^2}$ 的最小值为( )",4,1,2,\sqrt{2}
+35,"已知向量$\bar{a}/\bar{b}$,且$\left|\bar{a}\right|>\left|\bar{b}\right|>0$,则向量$\bar{a}-\bar{b}$的方向( )",与向量\tilde{q}方向相同,与向量\dot{a}方向相反,与向量\bar{b}方向相同,无法确定
+36,从正方体的八个顶点中任取三个点为顶点作三角形，其中直角三角形的个数为（    ）,56,52,48,40
+37,"在等差数列$\{a_n\}$中，$a_1=29$,$S_{10}=S_{20}$, 则数列$\{a_n\}$的前$n$ 项和$S_{n}$的最大值为( )",S_{15},S_{16},S_{15} 或S_{16},S_{17}
+38,"已知事件 $A$, $B$, 则$(A\cup B)(\overline{A}\cup\overline{B})$表示( )",必然事件,不可能事件,A 与B 恰有一个发生,A 与 B 不同时发生
+39,"设$A=\{\alpha,b\}$,$B=\{a,b,c,d,e,f\}$,集合$M$ 满足$A$ 苘$M\quad B$(都是真包含),这样的集合有( )",12个,14个,13个,以上都错
+40,"已知函数$y=f(x)$在区间$[a,b]$内的图象为连续不断的一条曲线，则“$f(a)\cdot f(b)<0$” 是“函数$y=f(x)$在区问$[a,b]$内有零点”的(   )",充分不必要条件,必要不充分条件,充分必要条件,既不充分也不必要条件
+41,x^2+3y^2=1\text{ 的焦点坐标为( )},"(0,\pm\frac{\sqrt{3}}{6})","(\pm\frac{\sqrt{3}}6,0)","(0,\pm1)","\left(\pm1,0\right)"
+42,下列函数中，在其定义域上是增函数的是（    ）,f(x)=-x,f(x)=x^{2},f\left(x\right)=3x,f\left(x\right)=\frac{1}{x}
+43,"已知集合$M=\left\{m\left|m=\alpha+b\sqrt{2},\alpha,b\in{Q}\right\}\right.$,则下列四个元素中属于$M$的元素的个数是（）$(1+\sqrt{2}\pi;\sqrt{11+6\sqrt{2}};3)\frac1{2+\sqrt{2}};4,\sqrt{2-\sqrt{3}}+\sqrt{2+\sqrt{3}}$",4,3,2,1
+44,"已知椭圆$\frac{x^2}{a^2}+\frac{y^2}{b^2}=1\left(a>b>0\right)$的右焦点为$F$, 椭圆上的$A$, $B$ 两点关于原点对称，  $|FA|=2|FB|$,且$\overline{FA}\cdot\overline{FB}\leq\frac49a^2$,则该椭圆离心率的取值范围是 ( )","\left(0,\frac{\sqrt{5}}{3}\right]","\left(0,\frac{\sqrt{7}}{3}\right]","\left[\frac{\sqrt{5}}{3},1\right)",\left[\frac{\sqrt{7}}3\boldsymbol{1}\right)
+45,"\text{设}a=\frac1{2\times10^6}+\frac1{10^2},b=\mathrm{e}^{0.01}-1,c=\text{ln1.02,则}a,b,c\text{ 的大小关系为( )}",c<a<b,b<c<a,a<b<c,b<a<c
+46,"在\Delta ABC\text{ 中,}O\text{ 为}\Delta ABC\text{ 所在平面内的一点,且}2\overline{OA}+3\overline{OB}+5\overline{OC}=\vec{0}，\text{则}\frac{S_{\Delta AOC}}{S_{\Delta BOC}}\text{值}为（ ）",\quad \frac 32,\frac{2}{5}},3,\quad \frac 52
+47,$\log_{24}2+\log_{24}3+\log_{24}4$等于（　　）,1,2,24,\frac12
+48,已知双曲线$\frac{x^2}{a^2}-\frac{y^2}3=1(a>0)$ 的右顶点和抛物线 $y^2=8x$ 的焦点重合，则$a$ 的值为( ),1,2,3,4
+49,"已知直线$a,b,c$,若$a$,$b$异面，$b/c$,则$a$,$c$ 的位置关系是 (  )",异面,相交,平行或异面,相交或异面
+50,下列计算或化简结果错误的是（    ）,\frac{2\tan\alpha\cos\alpha}{\sin\alpha}=2,若\sin\theta\cdot\cos\theta=\frac{1}{2}，则\tan\theta+\frac{\cos\theta}{\sin\theta}=2,若\tan x=\frac12，则\frac{2\sin x}{\cos x-\sin x}=1,若\alpha为第一象限角，则\frac{\cos\alpha}{\sqrt{1-\sin^2\alpha}}+\frac{\sin\alpha}{\sqrt{1-\cos^2\alpha}}=2
+51,已知实数m是1和5的等差中项，则m＝（    ）,\sqrt{5},±\sqrt{5},3,±3
+52,下列从集合A到集合B的对应关系f是函数的是（    ）,A＝{－1，0，1}，B＝{－1，0，1}，f：A中的数加1,A＝{－1，0，1}，B＝{－1，0，1}，f：A中的数取绝对值,A＝Z，B=Q，f：A中的数取倒数,A＝{平行四边形}，B＝R，f：求A中平行四边形的面积
+53,"集合 $A=\{0,2,4,5\},B=\{0,3,5,9\}$,则 $A\bigcap B=(\quad)$","\{0,2,3,4,5,9\}","\{0,5\}","2,5",Ø
+54,"\text{  若 }ABCD\text{为平行四边形,且}A(4,1,3)\text{,}B(2,-5,1)\text{,}C(-3,7,-5)\text{,则顶点}D\text{ 的坐标为( )}","(-1,13,-3)","(2,3,1)","(-2,2,1)","\left(\frac72,4,-1\right)"
+55,函数$y=\ln\sqrt{\alpha x^2+2x-1}$ 的值域为R，则实数$\alpha$ 的取值范围是（ ）,"[0,+\infty)","[-1,0)\cup(0,+\infty)","(-\infty,-1)","[-1,1)"
+56,"在空间直角坐标系$O$-xyz 中，已知点$A\left(1,-2,0\right)$和向量$\vec{a}=\left(-3,4,12\right)$, 且$\overrightarrow{AB}=2\vec{a}$, 则点 $B$ 的坐标为( )","\left(-7,10,24\right)","\left(7,-10,-24\right)","\left(-6,8,24\right)","(-5,6,24)"
+57,"已知数列{an}的通项公式a_n=\begin{cases}(-1)^n,1\leq n\leq2019\\\left(\frac12\right)^{n-2019},n\geq2020\end{cases}，前n项和为Sn，则关于数列\{a_{n}\},\{S_{n}\}的极限，下面判断正确的是（    ）",数列\left.\left\{\begin{array}{c}{a_{n}}\\\end{array}\right.\right\}的极限不存在，\{S_{n}\}的极限存在,数列\left.\left\{\begin{array}{c}{a_{n}}\\\end{array}\right.\right\}的极限存在，\{S_{n}\}的极限不存在,数列\left.\left\{\begin{array}{c}{a_{n}}\\\end{array}\right.\right\}､\{S_{n}\}的极限均存在，但极限值不相等,数列\left.\left\{\begin{array}{c}{a_{n}}\\\end{array}\right.\right\}､\{S_{n}\}的极限均存在，且极限值相等
+58,"设$_{q=2^{\frac13}},\quad b=\log_{3}2,\quad c=\cos2$,则(  )",c>b>a,a>c>b,c>a>b,a>b>c
+59,在平行四边形ABCD中，M是CD边上中点，则2\overline{A}\overline{M}=（    ）,\overrightarrow{AC}-2\overrightarrow{AB},\overrightarrow{AC}+2\overrightarrow{AB},2\overrightarrow{AC}-\overrightarrow{AB},2\overrightarrow{AC}+\overrightarrow{AB}
+60,"设a=\log_54,\quad b=\log_{\frac15}3,\quad c=0.5^{-0.2},则a，b，c的大小关系是（    ）",a<b<c,b<a<c,c<b<a,c<a<b
+61,2022年3月21日，东方航空公司MU5735航班在广西梧州市上空失联并坠毁．专家指出：飞机坠毁原因需要找到飞机自带的两部飞行记录器（黑匣子），如果两部黑匣子都被找到，那么就能形成一个初步的事故原因认定.3月23日16时30分左右，广西武警官兵找到一个黑匣子，虽其外表遭破坏，但内部存储设备完整，研究判定为驾驶员座舱录音器．则“找到驾驶员座舱录音器”是“初步事故原因认定”的（    ）,充要条件,充分不必要条件,必要不充分条件,既不充分也不必要条件
+62,已知函数f(x)=\begin{cases}x+1&(x<1)\\-x+3&(x\geq1)&\end{cases}\text{则}f[f(0)]=(\quad),1,2,3,6
+63,"已知点$F_{1}$为椭圆$C:\frac{x}{a^2}+\frac{y}{b^2}=1(a>b>0)$的左焦点，点$A$ 为椭圆$C$ 的左顶点，过原点$O$的直线$\iota$交椭圆$C$于$P$,$\varrho$两点，若直线$PF_{1}$平分线段$AQ$,则椭圆$C$ 的离心率$e=( )$",\frac13,\frac12,\frac23,\frac34
+64,"在$_{\Delta}ABC$中，角$A,B,C$所对的边分别是$\alpha,b,c$,若$\sin^2B+\sin^2C=\sin^2A-\sqrt3\sin B\sin C$ 则角$A$的大小为( )",\frac\pi6,\frac\pi3,\frac{2\pi}{3},\frac{5\pi}6
+65,如果\frac ac>\frac bc，那么下列不等式中，一定成立的是（    ）,ac^{2}>bc^{2},a>b,a-c>b-c,ac>bc
+66,"已知函数$f(x)=\frac x{e^{x+1}}$,若关于x 的方程$[f(x)]^2+mf(x)-1+m=0$ 恰有 3 个不同的实数解，则实数$m$ 的取值范围是( )","\left(1-\frac{1}{\mathbf{e}^{2}},1\right)","\left(1-\frac{1}{e^{2}},+\infty\right)","(-\infty,2)\cup(2,+\infty)","\left.\left(\begin{matrix}{1,\mathrm{e}^{2}}\\\end{matrix}\right.\right)"
+67,"\quad\text{已知集合 }A=\left\{x\in N|-1\leq x<3\right\},\quad B=\left\{-1,0,2,3\right\},\quad\text{则}A\bigcap B=\quad(\quad)","\{0,2\}","\left\{-1,0,2\right\}",\left\{2\right\},"\left\{0,2,3\right\}"
+68,"阿基米德（公元前287年公元前212年）不仅是著名的物理学家，也是著名的数学家，他利用“逼近法”得到椭圆的面积除以圆周率等于椭圆的长半轴长与短半轴长的乘积若椭圆$C$的对称轴为坐标轴，焦点在x轴上，且椭圆$C$的离心率为$\frac{\sqrt{3}}{2}$,面积为8$\pi$,则椭圆$C$的方程为( )",\frac{x^{2}}{4}+\gamma^{2}=\mathbf{1},\frac{x^{2}}{16}+\frac{y^{2}}{4}=1,\frac{x^2}{16}+\frac{y^2}{12}=1,\frac{x^{2}}{4}+\frac{y^{2}}{16}=1
+69,"\text{已知向量}\vec{a}=\begin{pmatrix}-1,1,0\end{pmatrix},\quad\vec{b}=\begin{pmatrix}-2,m,0\end{pmatrix}\text{,且}\vec{a}\text{ 与}\vec{b}\text{ 互相平行,则}m=\text{(}\quad)",-2,2,1,-1
+70,"若直线 $y=3x$ 上存在一点 $P$,使得$|PB|-|PA|=2$, 则$m$ 的取值范围是( )","\left.\left(\begin{matrix}{0,9}\\\end{matrix}\right.\right)","\left(9,+\infty\right)","\left(0,\frac{1}{9}\right)","\left(\frac{1}{9},+\infty\right)"
+71,"\text{曲线}f(x)=x^2-\ln x\text{在点}(1,f(1))\text{处的切线方程为( )",y=2x-1,y=3-2x,y=2-x,y=x
+72,椭圆\frac{x^{2}}{9}+\frac{y^{2}}{4}=1的长轴长是（    ）．,3,6,9,4
+73,"已知$\alpha$, $\beta$ 都是锐角，且 $tan $\alpha\tan\beta=1+$$\operatorname{cos}\beta$$则（   ）",2\alpha=\beta+\pi,2\alpha=\pi-\beta,3\alpha=\pi+\beta,3\alpha=\pi-\beta
+74,"在锐角$\Delta ABC$中，角$A$,$B$,$C$的对边分别为$a$,$c$,$\Delta ABC$ 的面积为S，若$\sin(A+C)=\frac{2S}{b^2-c^2}$,则$\tan C+\frac1{2\tan(B-C)}$的最小值为(  )",\sqrt{2},2,1,2\sqrt2
+75,"已知曲线 $y=x+\frac1b\ln x$ 在点(1,1)处的切线与直线$x+2y=0$ 垂直，则( )",k=1,k=2,k=-1,k=-2
+76,"设$a=2\ln3^{\pi}$,$b=3\ln2^{\pi}$,$c=3\ln\pi^2$,则( )",\quad a> c> b,b>a>c,b>c>a,c>b>a
+77,在{}_{\Delta ABC}中，角A，B，C所对的边分别是a，b，c，若，a=4，b=3c则{}_{\Delta ABC}面积的最大值是（    ）,3,6,9,12
+78,直线x-y-1=0的倾斜角是（    ）,\frac\pi4,\frac{2\pi}{3},\frac{3\pi}4,\frac{5\pi}{6}
+79,“3x-1为整数”是“x为整数”的（    ）,充分不必要条件,必要不充分条件,充要条件,既不充分也不必要条件
+80,区政府联合双流中学组成工作组，与某建设公司计划进行6个重点项目的洽谈，考虑到工程时间紧迫的现状，工作组对项目洽谈的顺序提出了如下要求：重点项目甲必须排在前三位，且项目丙、丁必须排在一起，则这六个项目的不同安排方案共有,240种,188种,156种,120种
+81,"已知曲线$C_1{:}y=\sin x,\quad C_2{:}y=\cos\left(2x-\frac{2\pi}3\right)$,则下面结论正确的是( )",把C_{1}上各点的横坐标伸长到原来的 2 倍，纵坐标不变，再把得到的曲线向左平移\frac\pi6个单位长度，得到曲线C_{2};,把C_{1}上各点的横坐标伸长到原来的 2 倍，纵坐标不变，再把得到的曲线向右平移\frac\pi{12}个单位长度，得到曲线C_{2};,把C_{1}上各点的横坐标缩短到原来的\frac12倍，纵坐标不变，再把得到的曲线向左平移\frac\pi6个单位长度，得到曲线C_{2};,把C_{1}上各点的横坐标缩短到原来的\frac12倍，纵坐标不变，再把得到的曲线向右平
+82,"已知函数$f\left(x\right)=\sin\left(2x+\varphi\right)(0<\varphi<\pi)$满足$f\left(x\right)\leq\left|f\left(\frac\pi6\right)\right|$,若$\color{red}{0<x_1<x_2<\pi}$,且$f\left(x_1\right)=f\left(x_2\right)=-\frac35\text{,则}\sin(x_2-x_1)\text{的值为( )}$",#NAME?,\frac35,\frac34,\frac4{5}
+83,某课外兴趣小组通过随机调查，利用2x2列联表和统计量\text{K2}研究数学成绩优秀是否与性别有关.计算得K^{2}=6.748，经查阅临界值表知P\Big(K^{2}>6.635\Big)=0.010，则下列判断正确的是（    ）,每100个数学成绩优秀的人中就会有1名是女生,若某人数学成绩优秀，那么他为男生的概率是0.010,有99%的把握认为“数学成绩优秀与性别有关,在犯错误的概率不超过1%的前提下认为“数学成绩优秀与性别无关”
+84,"已知$f\left(x\right)=2\tan\left(\omega x+\varphi\right)\Bigg(\omega>0,\left|\varphi\right|<\frac\pi2\Bigg),f\left(0\right)=\frac{2\sqrt{3}}3$，周期$T\in\left(\frac{\pi}{4},\frac{3\pi}{4}\right),\left(\frac{\pi}{6},0\right)是f\left(x\right)$的对称中心，则$f\left(\frac{\pi}{3}\right)$的值为（    ）",-\sqrt{3},\sqrt{3},\mathrm{}\frac{2\sqrt3}3,\mathrm{~}-\frac{2\sqrt{3}}3
+85,"已知数列$\{a_n\}$是首项为$\frac12$,公比为$\frac12$的等比数列，数列$\{b_n\}$满足$b_n=\log_2\frac1{a_n}$, 则数列$\{a_nb_n\}$的前$n$项和为( )",\frac{2^{n+1}-n-2}{2^n},\frac{2^{n+1}-n-2}{2^{n+1}},\frac{2^{n+1}-n-1}{2^n},\frac{2^{n+1}-n-1}{2^{n+1}}
+86,则该游戏终止前，至少玩了六局的的概率为（    ）,\frac1{1024},\frac14,\frac12,\frac{1023}{1024}
+87,已知$\alpha=\left(\frac13\right)^{\frac12}，b=\ln\frac{1}{2}，c=2^{\frac{1}{3}}$，则(  ),a>b>c,c>a>b,b>a>c,b>c>a
+88,已知正项等比数列\left.\left\{\begin{array}{c}{a_{n}}\\\end{array}\right.\right\}满足，a_{4}=6a_{2}+a_{3}，则\frac{a_{n+2}}{a_{n}+a_{n+1}}=（    ）,\frac32,\frac92,\frac93,\frac94
+89,已知命题p：∃x＞0，﹣x2+x＞0，则命题p的否定为（    ）,∃x≤0，﹣x2+x＞0,∀x≤0，﹣x2+x≤0,∀x＞0，﹣x2+x＞0,∀x＞0，﹣x2+x≤0
+90,"\text{己知函数 }f\left(x\right)=\sin2x+\ln2\text{,则 }f^{\prime}\left(x\right)=(\quad)",\cos2x+\frac{1}{2},2\cos2x+\frac{1}{2},\text{cos2x},\text{2cos2x}
+91,已知不等式$(x+y)\left(\frac1x+\frac ay\right)\color{blue}{\geqslant}9$对任意正实数x，y 恒成立，则正实数 $\alpha$ 的最小值为$(\quad)$,2,4,6,8
+92,在下列区间中，函数f\left(x\right)=\mathbf{e}^{-x}+4x-3的零点所在的区间可能为（    ）,"\left(-{\frac{1}{4}},0\right)","\left(0,\frac{1}{4}\right)","\left(\frac{1}{4},\frac{1}{2}\right)","\left(\frac{1}{2},\frac{3}{4}\right)"
+93,一圆锥侧面积是其底面积的3倍，则该圆锥侧面展开图圆心角的弧度数为（    ）,\frac{2\pi}{3},\frac\pi3,\frac\pi6,\pi
+94,古希腊科学家阿基米德在《论平面图形的平衡》一书中提出了杠杆原理，它是使用天平秤物品的理论基础，当天平平衡时，左臂长与左盘物品质量的乘积等于右臀长与右盘物品质量的乘积，某金店用一杆不准确的天平（两边臂不等长）称黄金，某顾客要购买10g黄金，售货员先将5g的砝码放在左盘，将黄金放于右盘使之平衡后给顾客；然后又将5g的砝码放入右盘，将另一黄金放于左盘使之平衡后又给顾客，则顾客实际所得黄金（    ）,大于10g,小于10g,大于等于10g,小于等于10g
+95,"已知双曲线的焦点分别为F_1\text{,}F_2\text{,}\left|F_1F_2\right|=4\text{,双曲线上一点 }P\text{ 满足}\left\|PF_1\right|-\left|PF_2\right\|=2\text{,}则该双曲线的离心率为（    ）",\sqrt{2},\sqrt{3},2,3
+96,已知函数f\left(x\right)=\cos^{2}x+\sin^{2}\left(x+\frac{\pi}{4}\right)，则f\left(x\right)的最小值为,1+\frac{\sqrt{2}}2,\frac12,1-\frac{\sqrt{2}}2,1-\frac{\sqrt{2}}4
+97,"已知$F_1$, $F_2$分别为双曲线 $C:\quad\frac{x}{a^2}-\frac{y}{b^2}=1\quad(a>0,\quad b>0)$ 的左、右焦点，$C$ 的一条渐近线 $\iota$ 的方程为 $y=\sqrt{3}x$, 且$F_{1}$到 $\iota$ 的距离为 3$\sqrt{3}$, 点 P 为 C 在第一象限上的点， 点$\varrho$ 的坐标为(2,0),$PQ$为$\angle F_1PF_2$的平分线. 则下列正确的是( )",双曲线的方程为\frac{x^2}{27}-\frac{y^2}9=1,\left|PF_{1}\right|=3\left|PF_{2}\right|,\left|OP\right|=2\sqrt{6},\triangle PF_1F_2\text{ 的面积为9}\sqrt{15}
+98,"\text{已知等差数列}\{a_n\}\text{的前}n\text{ 项和为}S_n\text{.若}a_2+a_4=22\text{ , }S_4=38\text{,则}S_6=()",72,74,75,76
+99,"记等差数列$\{a_n\}$的前$n$ 项和为$S_n$, 已知$S_5=15$, $\alpha_4=5$, 则$S_{10}=($ )",60,70,80,100
+100,"等差数列$\{a_n\}$满足$a_2=3$, $a_5+a_3=24$, 则该等差数列的公差$d=( )$",1,2,3,4
+101,"设$\alpha>0$, $\beta>0$, $e$是自然对数的底数，下列选项一定正确的是( )","\text{若}e^\alpha+4\alpha=e^\beta+3\beta\text{,则}\alpha>\beta","\text{ 若 }e^\alpha+4\alpha=e^\beta+3\beta\text{ ,则 }\alpha<\beta","\text{若 }e^\alpha-4\alpha=e^\beta-3\beta\text{,则 }\alpha<\beta","\text{若}e^\alpha-4\alpha=e^\beta-3\beta\text{,则}\alpha>\beta"
+102,若8^{x}+4^{y}=4，则3x+2y的最大值为(    ),2,4\sqrt{2},4,2\sqrt{2}
+103,影响获取数据可靠程度的因素不包括（    ）,获取方法设计,所用专业测量设备的精度,调查人员的认真程度,数据的大小
+104,"已知$a=\ln1.5,\quad b=\frac{1}{2},\quad c=\cos1.25$,则大小关系正确的( )",a>b>c,b>a>c,b>c>a,c>a>b
+105,"已知$\tan\alpha>0$且$\cos\alpha<0$,则$\alpha$ 的终边在（ ）",第一象限,第二象限,第三象限,第四象限
+106,"过双曲线$C:\frac{x}{a^2}-\frac{y}{b^2}=1(a>0,b>0)$ 的右焦点$F$ 作 x 轴的垂线，与双曲线$C$及其一条渐近线在第一象限分别交于$A$,$B$ 两点，且$\overrightarrow{OF}=2OA-OB(O$ 为坐标原点), 则该双曲线的离心率是( )",2,\sqrt{3},\frac{3\sqrt{2}}2,\frac{2\sqrt{3}}3
+107,"\text{在 }\vartriangle ABC\text{ 中,}D\text{ 是 }BC\text{ 的中点,则 }\overline{AB}+\overline{AC}\text{ 等于(}",2\overrightarrow{AD},2\overrightarrow{DA},2\overrightarrow{DB},2\overrightarrow{BD}
+108,"\text{已知}P\left(\overline{A}\right)=\frac13,P\left(\overline{B}\mid A\right)=\frac12,P\left(B\mid\overline{A}\right)=\frac14.\text{则 }P\left(B\right)=\text{(  )}",\frac7{12},\frac{7}{24},\frac5{12},\frac5{24}
+109,"若双曲线的渐近线方程为y=\pm3x\text{,实轴长为2}a=2，且焦点在x轴上，则该双曲线的标准方程为（    ）",x^2-\frac{y^2}{9}=1\text{ 或}\frac{y^2}{9}-x^2=1,\frac{y^{2}}{9}-x^{2}=1,x^{2}-\frac{y^{2}}{9}=1,\frac{x^{2}}{9}-y^{2}=1
+110,``n=3”\text{是“}C_8^n=C_8^3\text{”的(}),充分非必要条件,必要非充分条件,充要条件,既非充分有非必要条件
+111,"双曲线\frac{x^{2}}{a^{2}}-\frac{y^{2}}{b^{2}}=1过点(\sqrt{2},\sqrt{3})，离心率为2，则该双曲线的标准方程为（    ）",\frac{x^{2}}{3}-y^{2}=1,x^{2}-\frac{y^{2}}{3}=1,\frac{x^{2}}{2}-\frac{y^{2}}{3}=1,\frac{x^{2}}{3}-\frac{y^{2}}{2}=1
+112,"已知函数f\left(x\right)=\begin{cases}2\mathbf{lnx},x>1\\x+2,x\leq1\end{cases}，若m<n，且f\left(m\right)=f\left(n\right)，则n-m的取值范围是（    ）","\left[4-2\mathbf{ln}2,\mathbf{e}^{\frac{3}{2}}-\mathbf{1}\right)","\left[4-2\mathbf{ln}2,\mathbf{e}^{\frac{3}{2}}-\mathbf{1}\right]","\left[3,\mathrm{e}^{\frac{3}{2}}-1\right]","\left[3,\mathrm{e}^{\frac{3}{2}}-1\right)"
+113,"\text{ 函数 }f(x)=x^a,\quad a\in Q\text{,若}f&apos;(1)=4\text{,则}a\text{的值为}",B．4,-4,5,-5
+114,已知数列$\{a_n\}$的前n项和为$S_n$，若a_{n}=\frac{1}{1+2+3+\cdots+n}，则S_{s}=（    ）,B．2,\frac32,\frac53,\frac38
+115,"已知函数 $f\left(x\right)=\sin\left(\omega x+\frac\pi3\right)\left(\omega>0\right)$ )在$\left[0,\pi\right]$上恰有 3 个零点，则整数$\omega$的值为( )",2,3,4,5
+116,下列向量组中，能作为表示它们所在平面内所有向量的基底的是（   ）,"\quad\vec{a}=(0,0),\quad\vec{b}=(2,3)","\vec{a}=(1,-3),\quad\vec{b}=(2,-6)","\vec a=(4,6),\quad\dot b=(6,9)","\vec a=(2,3),\quad\vec b=(-4,6)"
+117,$(x-1)^{12}$ 的展开式的第 8 项的系数是 ( ),C_{12}^{8},C_{12}^{s},C_{12}^{7},C_{12}^{7}
+118,某中学的学生积极参加体育锻炼，其中有 85%的学生喜欢足球或游泳，70%的学生喜欢足球，8296的学生喜欢游泳，则该中学既喜欢足球又喜欢游泳的学生数占该校学生总数的比例是(  ),0.15,0.63,0.67,0.7
+119,"定义在R上的奇函数$f(x)$,满足$f(x+4)=-f(x)$,且当$x\in[0,2]$时，$f(x)=-3^x+1$,$\text{则 }f\left(2022\right)=(\quad)$",8,2,-2,-8
+120,"若函数 $f( $x$) $是定义在 R 上的偶函数，且在$[0,+\infty)$单调递增，又 $f(3)=0$ , 则不等式$(x+1)f(x+1)>0$ 的解集是( )","(-3,0)\cup(3,+\infty)","\left(-4,-1\right)\cup\left(2,+\infty\right)","\begin{pmatrix}-2,1\end{pmatrix}\cup\begin{pmatrix}4,+\infty\end{pmatrix}","\left(-\infty,-4\right)\cup\left(-1,2\right)"
+121,设x，y∈R+，且$\frac{1}{x}+\frac{3}{y}=2$，则x+3y的最小值为（    ）,6,8,14,16
+122,"如果正态总体的数据落在\left[-3,-1\right]内的概率和落在\left[3,5\right]内的概率相等，那么这个正态总体的数学期望是（    ）",0,1,2,3
+123,"已知$m$,$n$为直线，$\alpha$为平面，若$m//\alpha$,$n\subset\alpha$,则$m$与$n$的位置关系是( )",平行,相交或异面,异面,平行或异面
+124,"命题“$\exists x\geq1$,使$x^2>1$”的否定形式为( )","\exists x<1,使x^2>1","\forall x<1,使x^2\leq1","\forall x\geq1,使x^2>1","\forall x\geq1,使x^2\leq1"
+125,某服务部门有n个服务对象，每个服务对象是否需要服务是独立的，若每个服务对象一天中需要服务的可能性是p，则该部门一天中平均需要服务的对象个数是（    ）,np\left(1-p\right),np,n,p(1-p)
+126,"若$\sin(\pi+\alpha)=\frac12,\quad\alpha\in\left(\pi,\frac{3\pi}2\right)$,则$\tan\left(p-\alpha\right)$等于( )",#NAME?,-\frac{\sqrt{3}}2,-\sqrt{3},-\frac{\sqrt{3}}3
+127,"在等差数列$\{a_n\}$中，已知$a_{1010}=1$, 则该数列前 2019 项的和$S_{2019}$等于( )",2019,2020,4040,4042
+128,直三棱柱ABC－A1B1C1中，△ABC为等边三角形， AA1＝AB，M是A1C1的中点，则AM与平面BCC_{1}B_{1}所成角的正弦值为（    ）,\frac7{10},\frac{\sqrt{15}}{10},\frac{\sqrt{85}}{10},-\frac{\sqrt{15}}{10}
+129,在正方体 $ABCD-A_{1}B_{1}C_{1}D_{1}$中，下列结论正确的是( )$\textcircled{1}AD_{1}//BC_{1};\textcircled{2}$平面$AB_{1}D_{1}//$ 平面$BDC_1$; $\odot AD_1//DC_1$; $\oplus AD_1//$平面$BDC_1.$,①②④,①②③,②③④,①③④
+130,"已知定义在R 的函数$f(x)$满足$f(x)=f(-x)$,且当$x\in(-\infty,0]$时，$f(x)+xf^{\prime}(x)<0$ 成立，若$a=(2^{0.1})f\left(2^{0.1}\right)$,$b=(\ln2)f\left(\ln2\right)$,$c=(\log_2\frac18)f(\log_2\frac18)$,则$a$,$b$,$c$ 的大小关系是( )",a>b>c,c>b>a,c>a>b,a>c>b
+131,"已知正数x,y,z满足x^{2}+y^{2}+z^{2}=1， 则S=\frac{1+z}{xy}+\frac{1}{z}的最小值是(　　)",2+3\sqrt{2},3+2\sqrt{2},3+2\sqrt{3},4+3\sqrt{2}
+132,"随机变量$X$的概率分布为$P(X=n)=\frac a{n(n+1)}(n=1,2,3)$,其中$a$ 是常数，则$E(X)=$ （    ）",\frac{38}{81},\frac{13}9,\frac{152}{243},\frac{52}{2^{7}}
+133,"已知三棱锥$P-ABC$ 中，侧面$PAC\bot$底$\angle BAC=90^{\circ},AB=AC=4,PA=\sqrt{10},PC=\sqrt{2}$, 则三棱锥$P-ABC$ 外接球的体积为( )",28\pi,36\pi,48\pi,72\pi
+134,"已知命题 $p:\forall x\in\mathbb{R}$ , $x^2+\frac1{x^2}>2$, 命题 $q:\exists x_0\in\mathbb{R}$ , $\ln x_0=-2$ , 则下列命题是真命题的为(  )",(\lnot p)\land q,p\land q,p\land(\neg q),(\neg p)\wedge(\neg q)
+135,"复数 $z= ( 1+ 2$i$) \mathrm{i} ^{2023}$ ,i 是虚数单位，则$|z|=( )$",5,\sqrt{5},3,\sqrt{3}
+136,"下列命题中真命题的个数是（    ）①\forall x\in\mathbf{R},x^{4}>x^{2}；②若p\wedge q是假命题，则p,q都是假命题；③命题“\forall x\in R,x^{3}-x^{2}+1\leq0”的否定是“\exists x_{0}\in\mathbf{R},x_{0}^{3}-x_{0}^{2}+1>0”．",0,1,2,3
+137,"已知n是由数字1，2，3，4，5组成的三位数（数字可重复），设事件A表示“n是奇数”，事件B表示“n是三位对称数”\text{,则}P(B)\text{ 和}P{\left(B|A\right)}\text{分别为( )}","\frac15,\frac3{25}","\frac15,\quad\frac15","\frac15,\quad\frac35","\frac35,\quad\frac35"
+138,"已知 $\tan2\alpha=-2\sqrt{2}$,其中$\alpha$ 是第三象限角，则$\sin\left(\alpha+\frac\pi2\right)\cos\left(\alpha-\frac\pi2\right)$的值为( )",\frac{\sqrt{2}}{3},-\frac{\sqrt{2}}{3},\frac{2}{3},-\frac{2}{3}
+139,在数列\left.\left\{\begin{array}{c}{a_{n}}\\\end{array}\right.\right\}中，a_{1}=1，\alpha_{n+1}=\alpha_{n}^{2}-1，若k\in\mathbb{N}^{+}，则a_{k}+a_{k+1}=（    ）．,-1或1,1,0或-1,-1
+140,"已知点 $A(2,-1,2)$在平面$\alpha$ 内，$\vec{n}=(3,1,2)$ 是平面$\alpha$ 的一个法向量，则下列各点在平面$\alpha$内的是( )","\left.\left(\begin{matrix}{1,-1,1}\\\end{matrix}\right.\right)","\left(1,3,\frac32\right)","\left(1,-3,\frac{3}{2}\right)","\left(-1,3,\frac{3}{2}\right)"
+141,"\text{,在 }\Delta ABC\text{中,}BD=\frac13BC\text{,点 }E\text{ 是 }AD\text{ 的中点,记 }\overline{AB}=\vec{a}\text{ , }\overline{AC}=\vec{b}\text{ ,则 }\overline{BE}=(\quad)",-\frac13\vec{a}+\frac13\vec{b},-\frac{2}{3}\vec{a}+\frac{1}{6}\vec{b},-\frac{1}{3}\vec{a}-\frac{1}{3}\vec{b},\frac{2}{3}\vec{a}-\frac{1}{6}\vec{b}
+142,函数 $f(x)=\frac1{1-x}+\lg\left(1+x\right)$ 的定义域为（ ）,"\begin{pmatrix} - \infty, - 1\end{pmatrix}","\begin{pmatrix}-1,1\end{pmatrix}\cup(1,+\infty)","\begin{pmatrix}1,+\infty\\\end{pmatrix}","\begin{bmatrix}-1,1\end{bmatrix}\cup(1,+\infty)"
+143,我国第一艘航母“辽宁舰”在某次舰载机起降飞行训练中，有5架歼­20飞机准备着舰。如果甲、乙两机必须相邻着舰，而丙、丁两机不能相邻着舰，那么不同的着舰方法有（    ）,18种,24种,36种,48种
+144,若曲线$f\left(x\right)=\frac{\ln x}x$存在与直线$y=kx$垂直的切线，则$k$的取值范围是( ),"(-\infty,0)\mathrm{U}(0,+\infty)","\left[-\frac{1}{2e^{3}},0\right)\cup(0,+\infty)","\left[-\sqrt{\mathbf{e}^{3}},\mathbf{0}\right)\cup(\mathbf{0},+\infty)","\left(-\infty,0\right)\cup\left[2\mathrm{e}^{3},+\infty\right)"
+145,"5个车位分别停放了$A,B,C,D,E,5$ 辆不同的车，现将所有车开出后再按$A,B,C,D,E$ 的次序停入这5个车位，则在A 车停入了$B$ 车原来的位置的条件下，停放结束后恰有1辆车停在原来位置上的概率是( )|",\frac38,\frac3{40},\frac16,\frac1{12}
+146,"已知$\sin\alpha+\cos\alpha=-\frac{1}{5},\alpha\in(0,\pi)$, 则$\tan\alpha$ 的值为（ ）",-\frac43或-\frac34,-\frac{4}{3},-\frac{3}{4},\frac{3}{4}
+147,在△ABC中，已知∠A=90°，AB=2，AC=4，点P在以A为圆心且与边BC相切的圆上，则\overrightarrow{PB}\cdot\overrightarrow{PC}的最大值为（    ）,\frac{16}5,\frac{36}{5},\frac{46}{5},\frac{56}{5}
+148,"\text{在等差数列}\{a_n\}\text{中,}a_\text{з}+a_9=\text{32,}a_2=4\text{,则}a_{10}=\text{( )}",25,28,31,34
+149,直线$l_1:\alpha x-2y+3=0$ 与直线$l_2:x+(\alpha-1)y-2=0$ 互相垂直，则$a=(-1)$(   ),0,1,2,-1
+150,"定义在R 上的函数$f(x)$,若$f(x-1)$的图像关于点(1,0)对称，且$f(2)=3$, 若函数$y=f(x)-x$ 在$\left[0,+\infty\right)$上单调递增，则不等式 $f\left(x+1\right)<x$ 的解集为( )","\begin{pmatrix} - \infty, - 3\end{pmatrix}","\begin{pmatrix}-\infty,-2\end{pmatrix}","\begin{pmatrix}2,+\infty\end{pmatrix}","\begin{pmatrix}3,+\infty\end{pmatrix}"
+151,"已知函数$f(x)=\frac{1}{3}x^{3}+\frac{1}{2}(a^{2}+1)x^{2}+a^{2}x+a$,则“$\alpha<-1$”是“函数$f(x)$在：x=-1处取得极小值”的（  ）",充分而不必要条件,必要而不充分条件,充要条件,既不充分也不必要条件
+152,若直线y=kx+1与圆O:x^{2}+y^{2}=1q交于A、B两点，且\angle AOB=60^{°}，则实数k等于（    ）,\pm\sqrt{3},\pm\frac{\sqrt{3}}3,\pm\frac13,\pm3
+153,用与圆柱底面成角60^{\circ}的平面截圆柱，得到一完整的椭圆截面，则该椭圆的离心率为,\frac12,\frac{\sqrt{2}}2,\frac{\sqrt{3}}3,\frac{\sqrt{3}}2
+154,"\text{设}x,y\in\mathbb{R}\text{,向量}\vec{a}=(x,1),\vec{b}=(1,y),\vec{c}=(2,-4)\text{且}\vec{a}\perp\vec{c},\vec{b}//\vec{c}\text{,则.x-y=( )}",B．2,-4,4,0
+155,直线3x+\sqrt{3}y-a=0的倾斜角为（    ）,30°,60°,120°,150°
+156,"函数f(x)=\begin{cases}2^{-x}-1,x\leq0,\\x^{\frac12},x>0,&\end{cases}\text{满足 }f(x)=1\text{ 的 x 值为}",1,-1,1或2,1或-1
+157,已知$\overline{AB}\perp\overline{AC}，\left|{\overrightarrow{AB}}\right|={\frac{1}{t}}，\left|{\overrightarrow{AC}}\right|=\pm ，$若p点是${}_{\Delta ABC}$所在平面内一点，且$\overrightarrow{AP}=\frac{\overrightarrow{AB}}{\left|\overrightarrow{AB}\right|}+\frac{4\overrightarrow{AC}}{\left|\overrightarrow{AC}\right|}$，则$\overline{PB}.\overline{PC}$的最大值等于（   ）,13,15,19,21
+158,把正整数下列方法分组：（1），（2，3），（4，5，6），…，其中每组都比它的前一组多一个数.设表示第n组中所有数的和，那么s_{_{21}}等于(    ),1113,4641,5082,53361
+159,若i为虚数单位，已知复数z=\mathbf{1+i}，则表示复数\frac{2}{z}+\overline{z}在复平面上对应的点位于（    ）,第一象限,第二象限,第三象限,第四象限
+160,"经过点(2,1)的直线与圆$O:x^2+y^2=25$交于A，$B$ 两点，则$_{\Delta}OAB$ 面积的最大值为( )",2\sqrt{6},2\sqrt{21},10,\frac{25}2
+161,\frac{(1-2\mathrm{i})^{2}}{\mathrm{i}}在复平面内对应的点位于,第一象限,第二象限,第三象限,第四象限
+162,"若-$\log_b\alpha=\frac{10}{3}$,则$\alpha$与$b$ 的关系为( )",\quad a= b^3,b=a^3,b=a^2,\quad a= b^2
+163,展开式\left(x^{2}+\frac{1}{x^{2}}-2\right)^{3}中的常数项为（    ）,20,-20,-12,-8
+164,"\text{在 }\vartriangle ABC\text{ 中,点 }D\text{ 满足}\overline{AB}=4\overline{DB}\text{,则}\overline{CD}=(\quad)",\frac{1}{4}\overrightarrow{CA}+\frac{3}{4}\overrightarrow{CB},\frac{3}{4}\overrightarrow{CA}+\frac{1}{4}\overrightarrow{CB},\frac{1}{4}\overrightarrow{CA}-\frac{3}{4}\overrightarrow{CB},\frac{3}{4}\overrightarrow{CA}-\frac{1}{4}\overrightarrow{CB}
+165,已知函数$f(x)$的定义域为R，$f(2x+1)$为奇函数，$f(x-1)=f(-x-1)$ 则( ),f(0)=0,f(3)=0,f(7)=0,f(5)=0
+166,六名教师随机分配到三所学校任教，每个学校分配两名教师，则甲、乙被分配到同一所学校的概率为（    ）,\frac15,\frac14,\frac13,\frac12
+167,"设 $x\in R$ ,则$\ln x>0$ 的一个充分不必要条件是( )",\quad x> \sqrt {2},x>0,x>1,x< - 1
+168,"简单来说就是对于满足一定条件的连续函数 f\left(x\right)\text{,存在一个点}x_{0}\text{ ,使得 }f\left(x_{0}\right)=x_{0},，那么我们称该函数为“不动点”函数，下列为“不动点”函数的是（    ）",f(x)=\mathbf{1}\mathbf{m},f\left(x\right)=x^{2}-3\sin2x+1,f(x)=\mathbf{e}^{x},f\left(x\right)=x+\frac{1}{x}
+169,"已知$P(-3$,4)是角$\alpha$ 的终边上的点，则$\tan\alpha=(\quad)$",\quad \frac 45,- \frac{3}{5},-\frac{4}{3},- \frac 34
+170,函数f（x）=sin（2x+\frac{3\pi}2）是（　　）,最小正周期为\pi的奇函数,最小正周期为\pi的偶函数,最小正周期为\pi/2的奇函数,最小正周期为\pi/2的偶函数
+171,过直线2x-y+4=0{\text{与 }x-y+5}=0的交点，且在y轴上截距为8的直线的方程是(　　),2x+y-8=0,2x-y-8=0,2x+y+8=0,2x-y+8=0
+172,安排4名男生和3名女生去参加甲、乙两个不同的社团活动，每个社团至少3人，且社团甲的男生数不少于社团乙的男生数，则不同的参加方法种数是（    ）,31,53,61,65
+173,"设$F_1$, $F_{2}$是椭圆$E: \quad \left \{ \mathrm{x} ^{\wedge }\{ 2\} \right \} \left \{ \mathrm{a} ^{\wedge }\{ 2\} \right \} + \left \{ \mathrm{frac}\{ \mathrm{y} ^{\wedge }\{ 2\} \right \} = 1( $a$> $b$> 0) $的左、右 焦点，过点$F_{1}$斜率为$\frac{\sqrt{3}}{2}$的直线交椭圆于点$P$,若$2\angle PF_1F_2=\angle PF_2F_1$,则椭圆$E$的离心率是( )",\sqrt{3}+1,\sqrt{3}-1,\frac{\sqrt{3}}3,\frac{\sqrt{2}}2
+174,"\text{已知直线}l_1:2x+y+2=0\text{,}l_2:2x+y=0\text{,则}l_1\text{与}l_2\text{间的距离为(}",\frac{2\sqrt{5}}{5},\frac{\sqrt{5}}{5},\sqrt{2},\frac{\sqrt{5}}2
+175,"已知直角梯形ABCD中，AB//CD，$\angle BAD=90^{\circ}，\angle BCD=60^{\circ}$，$E$ 是线段$AD$ 上靠近 A 的三等分点，$F$ 是线段$DC$ 的中点，若 $AB=2$ , $AD=\sqrt{3}$ , 则$\vec{EB}\cdot\vec{EF}=(\quad)$",\frac73,\frac{11}{3},\frac79,\frac{11}{9}
+176,"在平面内，$A$,$B$是两个定点，$C$是动点，$\left|\overrightarrow{CA}+\overrightarrow{CB}\right|=\left|\overrightarrow{AB}\right|$,则点$C$的轨迹为( )",圆,椭圆,抛物线,直线
+177,"设函数$f(x)=\frac{\sin x}{x}$,则$f(x)$是( )",奇函数，且存在x_{0}使得 f(x_0)>1,奇函数，且对任意 x\neq0 都有|f(x)|<1,偶函数，且存在x_{0}使得f(x_0)>1,偶函数，且对任意 x\neq0 都有|f(x)|<1
+178,"直线$l:(2m-3)x+(2-m)y-3m+4=0$ 和圆$C:x^2-6x+y^2-4y+9=0$,则直线$l$ 与圆$C$ 的位置关系为( )",相切,相交,相离,不确定
+179,"已知函数 $f(x)=\cos(x-3)+\cos(x+3)$ , 则下列结论中正确的是( )","\quad f( x) 在区间(1,2)上单调递减",f(x) 到的图像可由函数 y=2\cos3\sin x 的图像向右平移\frac\pi2个单位得到,\quad x= \frac \pi3是f(x)图像的一条对称轴,f(x) 的最大值为-2 cos 3
+180,函数 $f(x)=\log_4x$ 的图象与函数 $g(x)=\sin\pi x$ 的图象的交点个数是,2,3,4,5
+181,点$P$ 是圆$x^2+y^2-6x-2y+9=0$ 上任意一点.则点$P$到双曲线 $C:\frac{x^2}2-\frac{y^2}{16}=1$ 渐近线距心离的最小值是( ),\frac4{5},\frac{9}{5},1,\frac{14}5
+182,"已知直线$l_1\bot$平面$\alpha$,直线$l_2\subset$平面$\alpha$,则$l_1$与$l_2$的位置关系一定成立的是( )",相交,垂直,异面,平行
+183,"设 $a=0.7^{\frac12}$,$b=0.7^{\frac13},c=3^{0.7}$,则(  )",c<b<a,c<a<b,a<b<c,b<a<c
+184,"设函数$y=f(x)$ 的定义域为$D$,若对任意$x_1\in D$,存在$x_2\in D$,使得$f\left(x_1\right)\cdot f\left(x_2\right)=1$, 则称函数 $y=f(x)$具有性质 $M$, 给出下列四个结论： (i)函数 $y=x^3-x$ 不具有性质 $M;$$\textcircled{2}$函数$y=\frac{e^x+e^{-x}}2$其有性质$M;\textcircled{3}$若函数$y=\log_{8}(x+2),x\in[0,t]$具有性质$M$,则$t=510$;$\textcircled{4}$若函数$y=\frac{3\sin x+a}4$具有性质$M$,则$a=5$.其中正确结论的序号是(   )",①②,①③,①④,②③
+185,双曲线$C:\frac{x^2}4-\frac{y^2}2=1$与双曲线$D:\frac{x^2}4-\frac{y^2}2=-1$具有相同的（ ）,焦点,实轴长,离心率,渐近线
+186,"已知函数$f\left(x\right)=A\sin\left(\omega x+\frac{\pi}{6}\right)$$A>0,\omega>0$$x\in\left(-\infty,+\infty\right)$的最小正周期为$\pi$且$f(0)=\sqrt{3}$ ,则函数$y=f(x)$ 在$\left[-\frac\pi4,\frac\pi4\right]$上的最小值是( )",\quad - \sqrt {6},-2\sqrt{3},\quad - 3,2\sqrt{3}
+187,"若各项均为正数的等比数列$\{a_n\}$的前$n$ 项和为$S_n,\quad a_1a_5=81,\alpha_2=3$, 则 $S_{\xi}=$（  ）",12l,122,123,124
+188,不等式 $x(x+1)\geq0$ 的解集为 ( ),"(-\infty,-1]\bigcup(0.+\infty)","(-\infty,-1]\cup[0,+\infty)","\text{[-1,0]}","\text{[-1,0)}"
+189,"已知椭圆$C:\frac{x^2}{a^2}+\frac{y^2}{b^2}=1(a>b>0)$ 的左、右焦点分别为$F_1,\quad F_2$, 过点$F_1$作长轴的垂线与椭圆$C$的一个交点为$P$,若$\tan\angle PF_{2}F_{1}=\frac{3}{4}$, 则椭圆$C$的离心率为( )",\frac12,\frac13,\frac14,\frac15
+190,"在$_{\Delta}ABC$中，内角A、$B$、$C$所对的边分别为$a,b,c$,已知$A=\frac{\pi}{3},\:b=\sqrt{6}\quad,\quad\alpha=3\:$, 则$\angle C=(\quad)$",\frac\pi4,\frac{\pi}{3},\frac{5\pi}{12},\frac{\pi}{6}
+191,某单位共有职工300名，其中高级职称90人，中级职称180人，初级职称30人．现采用分层抽样方法从中抽取一个容量为60的样本，则从高级职称中抽取的人数为（    ）,6,9,18,36
+192,"\text{若 }\alpha\in(0,\pi)\text{,且}\cos\alpha+\sin\alpha=-\frac12\text{,则}\cos2\alpha=\text{(}\quad)",-\frac{\sqrt{7}}9,\frac{\sqrt{7}}9,-\frac{\sqrt{7}}4,\frac{\sqrt{7}}4
+193,设函数$f\left(\frac{1-x}{1+x}\right)=x$，则f(x)表达式为（    ）,\frac{1-x}{1+x}(x\neq-1),\frac{x+1}{x-1}(x\neq-1),\frac{1+x}{1-x}\left(x\neq-1\right),\frac{2x}{1+x}\left(x\neq-1\right)
+194,已知 $A=\{x|x<2\}$ 下列正确的结论是( ),3\in A,\quad\{x\}\in A,\{-1\}\subseteq A,\begin{matrix}\text{}&-1\subseteq A\end{matrix}
+195,"$a$、b 为实数，集合$M=\left\{\frac ba,1\right\},N=\left\{a,0\right\},f:x\to x$ 表示把集合 M 中的元素 x 映射到集合 N 中仍为 $x$, 则 $a+b$",1,0,-1,±1
+196,\left.\left\{\begin{array}{c}{a_{n}}\\\end{array}\right.\right\}设是递减的等差数列，前三项的和是15，前三项的积是105，当该数列的前n项和最大时，n=（    ）,4,5,6,7
+197,"已知定义在 $R$ 上的偶函数 $f(x)$ 满足 $f(x+2)=-f(x)$ , 且当$x\in(0,1]$ 时， $f(x)=-\ln x$,则(  )",f\bigg(\log_4\frac13\bigg)>f\bigg(3^4\bigg)>f\big(\log_34\big),f\left(3^{4}\right)>f\left(\log_{4}\frac{1}{3}\right)>f\left(\log_{3}4\right),f\left(\log_{4}\frac{1}{3}\right)>f\left(\log_{3}4\right)>f\left(3^{4}\right),f\left(3^{4}\right)>f\left(\log_{3}4\right)>f\left(\log_{4}\frac{1}{3}\right)
+198,的第n项，则n=,669,670,671,672
+199,"焦点为(-2,0),(2,0),离心率为$\frac{\sqrt{2}}{2}$的椭圆的标准方程为( )",\frac{x^{2}}{2}+\frac{y^{2}}{6}=1,\frac{x^{2}}{8}+\frac{y^{2}}{4}=1,\frac{x^{2}}{6}+\frac{y^{2}}{4}=1,\frac{x^{2}}{4}+\frac{y^{2}}{8}=1
+200,若不等式$x^2+kx+1<0$ 的解集为空集，则$k$ 的取值范围是 ( ),-2\leq k\leq2,"k\leq-2\text{,或}k\geq2",\text{-2<k<2},"k<-2\text{,或}k>2"
+201,"已知平行六面体$ABCD-A_1B_1C_1D_1$的所有棱长均为2，$\angle BAD=\angle BAA_1\approx\angle DAA_1=60^{\circ}$, $M$ 为$C_1D_1$的中点，则向量$\overline{AM}$的模长为( )",\sqrt{15},4,\sqrt{17},\sqrt{19}
+202,"已知$z=\frac{1}{2}-\frac{\sqrt{3} }{2}i$,则卜列说法正确的是(  )",z^2+z-1=0,z^2-z+1=0,z^2-z-1=0,z^2+z+1=0
+203,已知A，$B$ 是圆$C:x^2+y^2-4y=0$ 上的两点，过点A，$B$ 的两条切线与直线x-4 二线共点，则直线$AB$ 必过定点( ),"\left(1,2\right)","\left.\left(\begin{matrix}2,&1\\\end{matrix}\right.\right)","\left({1,1}\right)","\left(1,\frac{1}{2}\right)"
+204,“k＝8“是“圆O1：（x+1）2+（y﹣1）2＝2与圆O2：（x﹣2）2+（y+2）2＝k“相切的（　  　）,充分不必要条件,必要不充分条件,充要条件,既不充分也不必要条件
+205,俄罗斯某高中共有5000名在校学生，针对这项政策该校随机调查了200位学生，其中选考汉语或英语的学生共有150位，选考英语的学生共有80位，选考汉语且选考英语的学生共有60位，则该校选考汉语的学生人数的估计值为（    ）,2800,3000,3100,3250
+206,"设 $x\in R$ ,则$\ln x>0$ 的一个充分不必要条件是( )",\quad \frac 14,\begin{array}{cc}\\1\\2\end{array},1,2
+207,"\text{若曲线 }y=\mathrm{e}^{x-1}\text{与曲线 }y=\alpha\sqrt{x}\text{ 在公共点处有公共切线,则实数 }a=\text{(}",\frac{\sqrt{2\mathbf{e}}}e,\frac{\sqrt{e}}e,\frac2e,\frac1{e}
+208,下列说法正确的是( ),"“A\cup B”即“对任意x\in A\mathcal{U}B,都有x\in A 且x\in B”","“A\subseteq B”即“对任意x\in B,都有x\in A”","“A\bigcap\mathfrak{O}_sB (S为全集)”即“任意 x\in A\bigcap\mathfrak{O}_sB , 都有 x\in A 且 x \in B”","“ðgA\subset B(S为全集)”即“任意x\in B,都有x\notin A”"
+209,则不同的考试安排方案共有（    ）,720种,3168种,1296种,5040种
+210,"记$\alpha= \log _78, b= \log _{8}7, c= \frac 87, d= \frac 78$,则( )",a<b,a<c,c<b,b<d
+211,在复平面上，若点$Z_1$、$Z_2$对应的复数分别为$z_1=1-i$、$z_2=\frac{2+4i}{1+2i}$则$|Z_1Z_2|=(\quad)$,1,\sqrt{2},2,2\sqrt{2}
+212,"\text{己知随机变量 }\xi\sim N{\left(100,\sigma^2\right)}(\sigma>0)\text{,若}P{\left(80\leq\xi\leq120\right)}\text{=0.8,则}P{\left(\xi<80\right)}\text{等于()}",0.05,0.1,0.15,0.2
+213,"\text{已知 2}\sqrt{3}\sin\left(x+\frac\pi2\right)+3\cos\left(x+\frac{5\pi}6\right)=1\text{,则}\cos\left(2x-\frac\pi3\right)=\text{(}",#NAME?,\frac{\sqrt{3}}3,\frac12,\frac13
+214,数列$\{b_n\}$为有且仅有 6 项的“和非负”数列，则这样的数列$\{b_n\}$ 的个数为( )个,20,24,28,30
+215,式子$\left(\sqrt[3]{3^2}-\sqrt{3^3}\right)\div\sqrt{3}$可化简为（    ）,3^{\frac{1}{6}}-3,-3^{\frac16}-3,3^{\frac{1}{6}}+3,-3^{\frac16+3}
+216,"\text{设}\frac{z-3}{1+\mathrm{i}}=2-\mathrm{i},\text{则}|z|=(\quad)",5,\sqrt{26},6,\sqrt{37}
+217,"设函数$f(x)=x-\{x\}$,二次函数 $g(x)=\alpha x^2+bx$ , 若函数 $y=f(x)$ 与$y=g(x)$ 的图象有且只有一个公共点，则$a,b$ 的取值不可能是( )","a=-4,b=1","a=-2,b=-1","a=4,b=-1","a=5,b=1"
+218,"\text{ 若}a,b,c\in\mathbf{R}\text{,且}a>b\text{,则下列不等式中,一定成立的是( )",a+b>b-c,ac\geq bc,\frac{c^{2}}{a-b}>0,(a-b)c^{2}\geq0
+219,下列各式不正确的是( ),45°= \frac\pi4,60°= \frac\pi3,-210°=- \frac{7\pi}6,725°=\frac{17\pi}4
+220,"\left.f\left(\begin{matrix}{x}\\\end{matrix}\right.\right)=x^{3}+\alpha x^{2}+x+\mathbf{1}\left(\begin{matrix}{\alpha\in R}\\\end{matrix}\right)．若f\left(x\right)在区间\left(-\frac{2}{3},-\frac{1}{3}\right)内是减函数，则a的取值范围是","\left[\frac{7}{4},+\infty\right)","(2,+\infty)","(1,+\infty)","(-\infty,-1)"
+221,"已知函数$f(x)=e^x(x^3+\frac32x^2-6x+2)-2ae^x-x$,若不等式$f(x)\leq0$ 在$[-2,+\infty)$上有解，则实数a的最小值为",-\frac{3}{2}-\frac{1}{e},-\frac{3}{2}-\frac{2}{e},-\frac{3}{4}-\frac{1}{2e},#NAME?
+222,"\quad\text{已知}\alpha\in\left(0,\pi\right),\quad\tan\alpha=-\frac{12}5,\quad\text{则}\cos\alpha=(\quad)",-\frac5{13},\frac5{13},-\frac{12}{13},\frac{12}{13}
+223,"记$\xi$, $\eta$为两个离散型随机变量，则下列结论不正确的是( )",\quad E\left ( 2\xi+ 1\right ) = 2E\xi+ 1,D(\eta-2)=D\eta,E(\xi+\eta)=E\xi+E\eta,D\left(\xi+\eta\right){=}D\xi+D\eta
+224,已知向量\vec{a}、\vec{b}满足\left|\vec{\alpha}\right|=1，\vec{a}\vec{b}=-\frac{1}{2}，则（    ）,\left|2\vec{a}\right|>\left|2\vec{a}+\vec{b}\right|,\left|2\vec{a}\right|<\left|2\vec{a}+\vec{b}\right|,\left|2\vec{b}\right|>\left|\vec{a}+2\vec{b}\right|,\left|2\vec{b}\right|<\left|\vec{a}+2\vec{b}\right|
+225,已知命题p：∀x∈R，sinx≥0，则下列说法正确的是（  ）,非p是特称命题，且是真命题,非p是全称命题，且是假命题,非p是全称命题，且是真命题,非p是特称命题，且是假命题
+226,"过点$P(1,3)$的直线与x轴，$\gamma$轴正半轴分别交于点$A$,$B$,则$|OA|+|OB|$的可能值是()",7,7.4,4+2\sqrt{2},7.8
+227,"已知$\tan\alpha=2$,则$\frac{\sin^2\alpha+\cos2\alpha}{\sin2\alpha+\cos^2\alpha}$的值为( )",\frac 15,\frac 13,\frac{3}{5},\frac 45
+228,在${}_{\Delta ABC}$中，$A=\frac{2\pi}{3}$，AB=1，G为{}_{\Delta ABC}的重心，若\overrightarrow{AG}\cdot\overrightarrow{AB}=\overrightarrow{AG}\cdot\overrightarrow{AC}，则{}_{\Delta ABC}外接圆的半径为(    ),\sqrt{3},1,2,2\sqrt{3}
+229,"已知$( a- $i$) ^2= - 2i$,其中i是虚数单位，$a$ 是实数，则$|a\dot{a}|=$",2,1,-1,-2
+230,"已知全集$U=\mathbb{R},A=\{x\mid x\leq0\},B=\{x\mid x\geq2\}$, 则集合$\mathfrak{d}_U(A\cup B)=(\quad)$",\quad\{x|_{x>0}\},\{x|x<2\},\{x|0\leq x\leq2\},\{x|0<x<2\}
+231,满足$f(f(x))=f^{\prime}(x)$的实系数多项式$f(x)$的个数为（    ）,2个,4个,无穷多个,前三个答案都不对
+232,"已知函数$f\left(x\right)=ax^{3}+b\sin x+\cos x\left(a,b\in\mathbf{R}\right)$，若$f{\left(\frac{\pi}{3}\right)}=\mathbf{1}$，则$f\left(-\frac{\pi}{3}\right)$=（    ）",-1,0,1,2
+233,"设$F_1$、$F_2$分别是双曲线$C:\frac{x^2}{a^2}-\frac{y^2}{b^2}=1(a>0$, $b>0)$的左、右焦点，若双曲线的右支上存在一点$_P$,使得$(\overrightarrow{OP}+\overrightarrow{OF_2})\cdot\overrightarrow{F_2P}=0$,$O$为坐标原点，且$|\overrightarrow{PF_1}|=\sqrt{3}|\overrightarrow{PF_2}|$,则双曲线$C$的离心率为( ).",\frac{\sqrt{3}+1}2,\frac{\sqrt{6}+\sqrt{2}}2,\sqrt{3}+1,\sqrt{6}+\sqrt{2}
+234,"若函数 $f(x+1)=-f(x)$, 当$x\in(0,1]$ 时，$f(x)=x$ ,若在区间[-1,1]内恰有一个零点， 则实数$m$ 的取值范围是（   ）","\left(0,\frac12\right]","\left[\frac{1}{2},+\infty\right)","\begin{bmatrix}0,+\infty\end{bmatrix}","\left(0,\frac12\right)"
+235,"\text{已知等比数列}\{a_n\}\text{前}n\text{项的和为}S_n\text{,若}S_n=2\cdot3^n+m\text{,则}m\text{ 值为( )}",1,-1,2,-2
+236,下列各组函数中，f(x)与g(x)相等的是( ),"f\left(x\right)=x-1{\huge|},\quad g\left(x\right)=\frac{x^2}{x}{\!-}1","f\left(x\right)=x^2,\quad g\left(x\right)=\left(\sqrt{x}\right)^4","f\left(x\right)=\left|x\right|,\quad g\left(x\right)=\sqrt{x^2}","f\left(x\right)=\ln x^2,\quad g\left(x\right)=2\ln x"
+237,"一个不透明盒子里装有标号为1,2,3,4,5的五张标签，现从中随机无放回地抽取两次，每次抽一张，则两次抽取的标签号数均为奇数的概率为（    ）",\frac15,\frac3{10},\frac8{25},\frac25
+238,"设$c_n=q^{n-1}$,$T_n$是$\{c_n\}$的前$n$ 项和.若{$\{c_n\}$是递增数列，且对任意$n\in\mathbf{N}^*$,存在$m\in N^*$, 使得\frac{T_{m}-C_{n}}{T_{m}-C_{m+1}}\leq0.则$q$的取值范围是（ ）","\left(-\infty,0\right)","\left.\left(\begin{matrix}{0,1}\\\end{matrix}\right.\right)","(1,2)","\left.[2,+\infty\right)"
+239,"\text{ 已知数列}\left\{a_n\right\}\text{是等差数列,且}a_3+a_4=\frac12\text{,则}a_1+a_6=\text{( )}",\frac14,\frac12,1,2
+240,"若函数 $f(x)$ 在$\left[-\alpha,\alpha\right]$是减函数，则$\alpha$ 的最大值是 ( )",\frac\pi{12},\frac\pi{6},\frac\pi{3},\frac\pi{2}
+241,若直线$3x+4y+m=0$与圆$(x+1)^2+y^2=1$相离，则实数$m$ 的取值范围是( ),"(-\infty,-8)\cup(2,+\infty)","(-\infty,-2)\cup(8,+\infty)","(-\infty,-2)\cup(2,+\infty)","(-\infty,-8)\cup(8,+\infty)"
+242,"\text{已知}\tan\alpha=-\frac34\text{,且}\frac\pi2<\alpha<\pi\text{,则}\sin\alpha-\cos\alpha\text{ 的值等于( )",#NAME?,\frac15,\frac75,#NAME?
+243,棣莫弗定理是由法国数学家棣莫弗发现的，由棣莫弗定理可以导出复数乘方公式：\left[r\left(\mathbf{cos\theta+isin\theta}\right)\right]^{n}=r^{n}\left(\mathbf{cosn\theta+isin\theta}\right)．根据复数乘方公式，复数\left[-2\left(\cos\frac{\pi}{5}+\mathrm{i}\sin\frac{\pi}{5}\right)\right]^{2023}在复平面内对应的点位于（    ）,第一象限,第二象限,第三象限,第四象限
+244,"已知复数$z$满足$z\left(1+\sqrt{3}\mathrm{i}\right)=4$ (i 是虚数单位),则复数$z$ 的共轭复数$\frac{-}{2}$为(  )",1-\sqrt{3}i,1+\sqrt3i,2-2\sqrt{3}i,2+2\sqrt{3}i
+245,"已知椭圆与双曲线$\frac{x}{2}-\frac{y}{2}=1$有共同的焦点，且离心率为$\frac1{\sqrt{5}}$,则椭圆的标准方程( )",\frac{x^{2}}{20}+\frac{y^{2}}{25}=1,\frac{x^{2}}{25}+\frac{y^{2}}{20}=1,\frac{x^{2}}{25}+\frac{y^{2}}{5}=1,\frac{x^{2}}{5}+\frac{y^{2}}{25}=1
+246,"给出下列说法： (1)空集没有子集； (2)任何集合至少有两个子集； (3）空集是任何集合的真子集；（4）若$\varnothing\subseteq A$,则$A\neq\varnothing$.其中正确的说法有( )",0个,1个,2个,3个
+247,式子\frac{\sin20^{\circ}\sqrt{1+\cos40^{\circ}}}{\cos50^{\circ}}的值为（    ）,\frac12,\frac{\sqrt{2}}2,\sqrt{2},2
+248,"\vec{\text{已知空间向量}a}=(2,-1,2),\vec{b}=\begin{pmatrix}1,-2,1\end{pmatrix}\text{,则}\vec{2a}-\vec{b}=\text{()}","\left.\left(\begin{matrix}{4,-2,4}\\\end{matrix}\right.\right)","(2,-1,2)","(3,0,3)","\left.\left(\begin{matrix}{1,-2,1}\\\end{matrix}\right.\right)"
+249,"已知$f(x)$是定义域为R 的奇函数，且$f(x)=f\left(4-x\right)$,当$-2\leq x<0$时，$f\left(x\right)=\log_3\left|x\right|\text{,则}f\left(\frac{11}{3}\right)=( )$",-1+\log_{3}11,1-\log_{3}11,1,-1
+250,"\text{己知}a>0\text{ 且 }a\neq1\text{,则函数 }f\left(x\right)=\left(x-a\right)^2\ln x\quad(\quad)",有极大值，无极小值,有极小值，无极大值,既有极大值，又有极小值,既无极大值，又无极小值

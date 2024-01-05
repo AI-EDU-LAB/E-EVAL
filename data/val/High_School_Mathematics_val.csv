@@ -1,0 +1,29 @@
+id,question,A,B,C,D,answer
+0,"已知集合 $A=\{x|-2<x<5\},\quad B=\{x|1-2x>3\}$, 则$A(1)B=(  )$","(-2,-1)","\begin{pmatrix}-2,1\end{pmatrix}","(1,5)","\begin{pmatrix}-1,5\end{pmatrix}",A
+1,"设$p:x^2-3x+2\leq0$,$q:x^2-(2m+2)x+m(m+2)\leq0$,若$\neg p$ 是$\neg q$ 的必要不充分条件，则实数$m$ 的取值范围是( )","[0,1]","(0,1)","\begin{pmatrix}-\infty,0\end{pmatrix}\cup[1,+\infty)","(-,0)\cup(1,+\infty)",A
+2,"若$x<3$,则$\sqrt{9-6x+x^2}-|x-6|$的值是( )",-3,3,9,9,A
+3,"已知定义在$R$上的函数$f(x)$,若函数$y=f(x+2)$为偶函数，且$f(x)$对任意$x_1$,$x_2\in\left[2,+\infty\right)\quad\left(x_1\neq x_2\right)$, 都有$\frac{f(x_2)-f(x_1)}{x_2-x_1}<0$,若 $f(a)\leq f(3a+1)$,则实数$\alpha$ 的取值范围是(  )","\begin{bmatrix}-\frac{1}{2},\frac{3}{4}\end{bmatrix}","\begin{bmatrix}-2,-1\end{bmatrix}","\text{}\left(-\infty,-\frac12\right]","\left(\frac{3}{4},+\infty\right)",A
+4,若集合$A=\left\{\left.x\right|x^{2}-2x-3\leq0\right\}，B=\left\{x|2^{*}\geq\sqrt{2}\right\}$，则$A\cap B$=（    ）,"\left[\frac12,3\right]","\left[\frac{1}{2},1\right]","\begin{bmatrix}-3,\frac12\end{bmatrix}","\left.\left[\begin{matrix}{2,3}\\\end{matrix}\right.\right]",A
+5,"\quad\text{设函数}f_a(x)=\sin^ax+\cos^ax,\quad a\in\mathbf{N}^*\text{,记}f_a(x)\text{的最小正周期为}T_a\text{,则(}\quad)",T_{3}=\pi,T_{6}=\pi,"f_4\left(x\right)\in\left[0,\frac{1}{2}\right]","f_8\left(x\right)\in\left[\frac{1}{8},1\right]",D
+6,若a>b>0，则下列不等式正确的是（    ）,ac>bc,a^{3}>b^{3},a<b,a+b<ab,B
+7,若\left(x-2y\right)^{n}的展开式中第4项与第8项的二项式系数相等，则n=（    ）．,9,10,11,12,B
+8,"已知$\left\{\alpha_n\right\}$是等比数列,$a_1=2$公比 $q=3$第3项至第n项$(n\geq3)$的和是 720,则n=（）",4,5,6,7,C
+9,"一个袋子中有4个黑球和1个白球，从中取一球，取后放回，重复n次，记取出的球为白球的次数为X，若E\left(X\right)=3\text{,则}D\left(5X+3\right)=2(20)",60,\frac{12}{5},\frac{27}{5},12,A
+10,"过点(2,-1)且方向向量为(2,1)的直线方程为（    ）",2x-y+4=0,2x+y-4=0,x-2y+4=0,x-2y-4=0,D
+11,某寝室6名同学打算在“五一假期（1日至5日）”中，随便选择一天参加志愿者活动，则不同的参加种数是（    ）,\mathbb{C}_6^5,A_{6}^{s},6^{s},5^6,D
+12,在(x^{2}+\frac{4}{x^{2}}-4)^{s}的展开式中，x6的系数是（    ）,180,20,-20,-180,A
+13,直线\sqrt{3}x+\sqrt{3}y+1=0的倾斜角是（    ）,\frac\pi4,\frac\pi3,\frac{2\pi}{3},\frac{3\pi}4,D
+14,4\times5\times6\times\cdots\times(n-1)\times n\text{ 等于(  )},A_{n}^{4},A_{n}^{r_{2-4}},n!-4!,A_{2}^{n-3},D
+15,"\text{己知:}\quad(1-x)(1+2x)^7=a_0+a_1\left(x+1\right)+a_2\left(x+1\right)^2+\cdots+a_3\left(x+1\right)^8\text{,则}a_4\text{等于( )}\quad",-1400,1400,840,-840,A
+16,"已知抛物线 $x^2=2py(p>0)$ 与双曲线$\frac{y^2}{a^2}-\frac{x^2}{b^2}=1(\alpha>0,b>0)$ 有相同的焦点$F$ ,点 $B$ 是两曲线的一个交点，且$BF\bot y$轴，若$L$为双曲线的一条渐近线，则$L$的倾斜角所在的区间可能为 ( )","\left(\frac{\pi}{6},\frac{\pi}{4}\right)","\left(\frac{\pi}{4},\frac{\pi}{3}\right)","\left(\frac{\pi}{2},\frac{2\pi}{3}\right)","\left(\frac{5\pi}{6},\pi\right)",D
+17,"\text{若}\left(1+mx^2\right)(1+x)^5\text{的展开式中}x^3\text{的系数为 20,则实数}m=\text{( )}",1,2,3,4,B
+18,两条平行直线3x+4y-5=0和 3x+4y+5=0之间的距离为（    ）,\frac12,1,2,3,C
+19,"设直线l,\alpha为平面外的一条直线，则l\perp\alpha 的充要条件是（    ）",\alpha内有无数条直线都与l垂直,\alpha内有两条相交直线都与l垂直,l，\alpha垂直于同一条直线,l，\alpha垂直于同一平面,B
+20,已知A_{n}^{2}=156，则n等于（    ）,11,12,13,14,C
+21,"双曲线$\frac{x^2}{x^2}-\frac{y^2}2=1$的两个焦点分别是$F_1,F_2$,双曲线上一点$P$到$F_{1}$的距离是 12,则$P$ 到$F_{2}$的距离是( ）",17,7,7或17,2或22,D
+22,函数 $f(x)=\sqrt{1}-x+\frac1{x+2}+\log_3(2x-1)$ 的定义域是 ( ),"\left(-2,\frac{1}{2}\right)","\left(\frac12,1\right)","\left[\frac{1}{2},1\right]","\left(\frac12,1\right]",D
+23,"函数 f\left(x\right)=\log_2x+m\text{,已知 }f\left(2\right)=3, 则 f\left(4\right)=( )",3,4,5,6,B
+24,若“$x>2a-3$”是“$-1<x<3$”的必要不充分条件，则实数$a$ 的取值范围是 ( ),a<1,a\leq1,a>1,a\geq1,B
+25,"已知函数f(x)=2^x+x\mathrm{~,~}g(x)=\log_2x+x\mathrm{~,~}h(x)=x^3+x的零点分别为a，b，c，以下说法正确的是（    ）",a<c<b,c<b<a,b<c<a,c<a<b,A
+26,"\text{已知}\cos\left(x-\frac\pi4\right)=\frac35\text{,则}\sin2x=\text{()}",-\frac{18}{25},\frac{18}{25},-\frac7{25},\frac7{25},C
+27,"若a=\mathbf{lg3},b=\mathbf{log}_43,c=\frac{\sqrt{2}}2，则（    ）",a<b<c,a<c<b,c<a<b,b<a<c,B
