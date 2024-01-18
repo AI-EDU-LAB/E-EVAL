@@ -92,7 +92,7 @@ D. {选项D}
 
 ## How to Submit
 
-You need to first prepare a UTF-8 encoded JSON file with the following format, please refer to [submission_example.json](https://github.com/AI-EDU-LAB/E-EVAL/E-EVAL_sample.json) for details.
+You need to first prepare a UTF-8 encoded JSON file with the following format, please refer to [submission_example.json](https://github.com/AI-EDU-LAB/E-EVAL/blob/b720ebdc5e6f5d1b9086962b17cdf7acc74f872f/E-EVAL_sample.json) for details.
 
   ```
   ## key within each subject is the "id" field from the dataset
