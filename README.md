@@ -4,7 +4,7 @@ E-Eval is a Chinese K12 educational assessment benchmark for large language mode
 
 ## News
 
-## Table of Contens
+## Table of Contents
 
 - Leaderboard
 - Data
