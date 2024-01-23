@@ -31,8 +31,10 @@ The following lists the zero-shot and five-shot accuracy of models evaluated in 
 | baichuan2-13b-chat            |               56.1 |               60.9 |       56.1 |    57.7 |
 | baichuan2-7b-chat             |               55.2 |               56.2 |       52.9 |    54.8 |
 | GPT-3.5                       |               54.5 |               56.9 |       52.3 |    54.6 |
+| Chinese-Alpaca-2-13B          |               44.8 |               46.2 |       38.7 |    43.2 | 
 | Educhat-base-002-13b          |               37.1 |               40.6 |       36.1 |    37.9 |
 | Educhat-sft-002-13b           |               33.2 |               39.4 |       36.1 |    36.2 |
+| Chinese-LLaMA-2-13B           |               35.7 |               38.9 |       33.2 |    35.9 | 
 | Educhat-sft-002-13b-baichuan  |               54.0 |               14.4 |       38.1 |    35.5 |
 | Educhat-base-002-7b           |               30.4 |               27.9 |       29.3 |    29.2 |
 
