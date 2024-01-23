@@ -114,7 +114,8 @@ You need to first prepare a UTF-8 encoded JSON file with the following format, p
   ```
   Then you can submit the prepared json file [here], **note that you need to first log in to access the submission page**.
 
-
+## Acknowledgement
+Thanks to [UNION INFORMATION](https://szunion-info.com/) for their support of this work.
 
 ## TODO
 
