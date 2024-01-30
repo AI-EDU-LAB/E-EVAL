@@ -1,6 +1,7 @@
 ## E-EVAL
 
-E-Eval is a Chinese K12 educational assessment benchmark for large language models, covering 4,391 multiple-choice questions in 11 different subjects, divided into three levels of difficulty.
+E-Eval is a Chinese K12 educational assessment benchmark for large language models, covering 4,391 multiple-choice questions in 11 different subjects, divided into three levels of difficulty. More details can be found in our [paper](https://arxiv.org/abs/2401.15927).
+
 
 ## News
 
@@ -115,7 +116,15 @@ You need to first prepare a UTF-8 encoded JSON file with the following format, p
   }
   ```
   Then you can submit the prepared json file [here], **note that you need to first log in to access the submission page**.
-
+## Citation
+```
+@article{hou2024eeval,
+            title={E-EVAL: A Comprehensive Chinese K-12 Education Evaluation Benchmark for Large Language Models},
+            author={Jinchang Hou and Chang Ao and Haihong Wu and Xiangtao Kong and Zhigang Zheng and Daijia Tang and Chengming Li and Xiping Hu and Ruifeng Xu and Shiwen Ni and Min Yang},
+            journal={https://arxiv.org/abs/2401.15927},
+            year={2024}
+}
+```
 ## Acknowledgement
 Thanks to [UNION INFORMATION](https://szunion-info.com/) for their support of this work.
 
