@@ -22,7 +22,7 @@ E-Eval is a Chinese K12 educational assessment benchmark for large language mode
 
 ## Leaderboard
 
-The following lists the zero-shot and five-shot accuracy of models evaluated in our initial version. Please visit our official [Leaderboard] for the latest models and their detailed results in each subject. We have noticed that for many models fine-tuned on specific instructions, the zero-shot results are better than the few-shot ones.
+The following lists the zero-shot and five-shot accuracy of models evaluated in our initial version. Please visit our official [Leaderboard](https://eevalbenchmark.com/leaderboard) for the latest models and their detailed results in each subject. We have noticed that for many models fine-tuned on specific instructions, the zero-shot results are better than the few-shot ones.
 
 #### Zero-shot && five-shot
 
