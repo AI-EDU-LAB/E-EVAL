@@ -1,3 +1,10 @@
+![image](https://github.com/AI-EDU-LAB/E-EVAL/assets/56249874/0acf7a53-7854-4b46-bffc-16e2df1639d6)
+
+
+<p align="center">
+   🌐 <a href="https://eevalbenchmark.com/" target="_blank">Website</a> • 🤗 <a href="https://huggingface.co/datasets/E-EVAL/E-EVAL" target="_blank">Hugging Face</a>  • 📃 <a href="https://arxiv.org/abs/2401.15927" target="_blank">Paper</a> 
+</p>
+
 ## E-EVAL
 
 E-Eval is a Chinese K12 educational assessment benchmark for large language models, covering 4,391 multiple-choice questions in 11 different subjects, divided into three levels of difficulty. More details can be found in our [paper](https://arxiv.org/abs/2401.15927).
