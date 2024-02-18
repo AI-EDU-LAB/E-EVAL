@@ -115,7 +115,7 @@ You need to first prepare a UTF-8 encoded JSON file with the following format, p
       ....
   }
   ```
-  Then you can submit the prepared json file [here], **note that you need to first log in to access the submission page**.
+  Then you can submit the prepared json file [here](https://eevalbenchmark.com/user_interface), **note that you need to first log in to access the submission page**.
 ## Citation
 ```
 @article{hou2024eeval,
